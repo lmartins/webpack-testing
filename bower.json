@@ -1,0 +1,9 @@
+{
+  "author": "Multiweb",
+  "name": "Rulergy",
+  "version": "0.1.0",
+  "dependencies": {
+    "owl.carousel": "*"
+  },
+  "devDependencies": {}
+}

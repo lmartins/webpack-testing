@@ -1,0 +1,22 @@
+{
+  "name": "iDomLive",
+  "paths": [],
+  "local": [],
+  "dependencies": {
+    "anthonyshort/static-router": "*",
+    "component/domify": "*",
+    "component/query": "*",
+    "component/events": "*",
+    "component/emitter": "*",
+    "component/css": "*",
+    "JayceTDE/mouse-inout": "*",
+    "lmartins/modal": "*",
+    "lmartins/overlay": "*",
+    "ianstormtaylor/css": "*",
+    "eivindfjeldstad/insert": "*",
+    "segmentio/raf-scroll": "*",
+    "fredsterss/tabify": "*",
+    "component/tip": "*",
+    "pazguille/aload": "*"
+  }
+}
